@@ -15,34 +15,6 @@ In this clinic, participants explore:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-kph_innovation_lab_coding_clinic/
-├── notebooks/
-│   ├── 01_oop_fundamentals.ipynb          # Interactive OOP walkthrough & design patterns
-│   ├── 02_tdd_workflow_hands_on.ipynb     # Step-by-step TDD development exercise
-│   └── 03_visual_debugging_clinic.ipynb   # Guided debugging challenges & runtime inspection
-├── src/
-│   ├── __init__.py
-│   ├── data_pipeline/
-│   │   ├── __init__.py
-│   │   ├── base_transformer.py           # Abstract base classes & OOP data processors
-│   │   └── validator.py                  # Data validation and error-handling classes
-│   └── utils/
-│       ├── __init__.py
-│       └── logger.py                     # Structured logging utilities
-├── tests/
-│   ├── __init__.py
-│   ├── test_transformer.py               # Unit test suites using pytest
-│   └── test_validator.py                 # Edge-case and assertion coverage tests
-├── .gitignore
-├── requirements.txt                      # Core project dependencies
-└── README.md                             # Repository documentation
-```
-
----
-
 ## 🛠️ Prerequisites & Setup
 
 ### 1. Clone the Repository
@@ -79,9 +51,8 @@ Launch JupyterLab or VS Code to step through the interactive session exercises:
 jupyter lab
 ```
 
-1. **`notebooks/01_oop_fundamentals.ipynb`**: Learn class modeling, property decorators, and modular abstractions.
-2. **`notebooks/02_tdd_workflow_hands_on.ipynb`**: Practice writing test assertions before implementing feature logic.
-3. **`notebooks/03_visual_debugging_clinic.ipynb`**: Troubleshoot real-world logical errors and state mutations using visual debuggers.
+1. **`kph_innovation_lab_20260916.ipynb`**: Learn test driven development, object oriented programming, and graphics for client engagement work.
+2. **`kph_innovation_lab_20260916_solution.ipynb`**: Solution for the lab. 
 
 ---
 
@@ -114,7 +85,7 @@ pytest --cov=src tests/
 
 ## 👤 Session Host & Maintainer
 
-* **Host & Instructor:** BlueDuckyLu
+* **Host & Instructor:** Jason Lu (jasonlu7@KPMG.com)
 * **Organization:** KPMG Performance Hub (KPH) Innovation Lab
 
 ---
