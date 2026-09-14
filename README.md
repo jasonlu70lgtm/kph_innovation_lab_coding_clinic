@@ -1,5 +1,5 @@
 # 🚀 KPH Innovation Lab: Coding Clinic (Session 2)
-Welcome to the repository for **Coding Clinic Session 2**, hosted by BlueDuckyLu for the KPMG Performance Hub (KPH) Innovation Lab.
+Welcome to the repository for **Coding Clinic Session 2**, hosted by Jason Lu for the KPMG Performance Hub (KPH) Innovation Lab.
 
 This session provides hands-on, practical guidance designed to elevate Python engineering standards across data, analytics, and automation workflows. Session 2 focuses on transitioning from procedural scripting to robust software development practices: **Object-Oriented Programming (OOP)**, **Test-Driven Development (TDD)**, and **Visual Debugging**.
 
